@@ -1,0 +1,11 @@
+{
+    "files.associations": {
+        "uart.h": "c",
+        "string.h": "c",
+        "queue.h": "c",
+        "gpio.h": "c",
+        "leds.h": "c",
+        "timer.h": "c",
+        "delay.h": "c"
+    }
+}
